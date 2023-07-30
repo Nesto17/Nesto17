@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Ernest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nesto17\&rank_icon=github&theme=radical)
-![Ernest's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nesto17\&layout=compact&theme=radical)
+![Ernest's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nesto17\&theme=radical)
 
 [![Ernest's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nesto17&theme=dark&background=000000)](https://git.io/streak-stats)
