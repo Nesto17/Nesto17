@@ -15,9 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/FLbMRL3o3FzODu2M0l/giphy.gif" width="100"/>
-</div>
-
-![Ernest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nesto17&show_icons=true&theme=radical)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nesto17&theme=dark&background=000000)](https://git.io/streak-stats)
+![Ernest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nesto17\&include_all_commits=true)
+[![Ernest's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nesto17&theme=dark&background=000000)](https://git.io/streak-stats)
