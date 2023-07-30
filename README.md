@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 </div>
 
 ![Ernest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nesto17&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nesto17&theme=dark&background=000000)](https://git.io/streak-stats)
